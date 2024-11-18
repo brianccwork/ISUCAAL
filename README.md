@@ -20,7 +20,7 @@ The ISUCAAL website was developed to provide an accessible and organized platfor
 
 ## 🌟 Features
 
-- **Responsive Design**: Ensures compatibility across devices and screen sizes.
+- **Responsive Design**: Ensures compatibility across devices and screen sizes utiliing Jekyll and Ruby.
 - **Research Highlights**: Showcases key projects and findings.
 - **Academic Resources**: Provides access to publications, tools, and related materials.
 
@@ -28,4 +28,4 @@ The ISUCAAL website was developed to provide an accessible and organized platfor
 
 ## 🙌 Acknowledgments
 
-Special thanks to Dr. Sharma and the ISUCAAL team for the opportunity to contribute to this project.
+Special thanks to Dr. Sharma and the ISUCAAL team for the opportunity.
